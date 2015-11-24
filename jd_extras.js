@@ -2296,7 +2296,7 @@ DISTRIBUTE_RESOURCES = DISTRIBUTE_RESOURCES.concat([
     "lang": "en",
     "group": "",
     "tags": [],
-    "url": "design/spec/animation/",
+    "url": "design/spec/animation/authentic-motion.html",
     "timestamp": null,
     "image": "images/cards/material-animation_2x.png",
     "title": "動畫",

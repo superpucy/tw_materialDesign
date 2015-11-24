@@ -49,7 +49,7 @@ var RESOURCE_COLLECTIONS = {
   "design/landing/materialdesign": {
     "title": "",
     "resources": [
-      "design/spec/animation/",
+      "design/spec/animation/authentic-motion.html",
       "https://www.google.com/design/spec/style/",
       "https://www.google.com/design/spec/layout/",
       "https://www.google.com/design/spec/components/",
